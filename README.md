@@ -163,3 +163,5 @@ Design rationale, technical spec, lesson track and asset provenance live in the 
 ## Licence
 
 Code MIT. Art and audio are CC0 (see `CREDITS.md`).
+#   k u r u m i  
+ 
